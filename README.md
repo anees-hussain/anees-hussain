@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anees-hussain
 - 👀 I’m interested in working on new projects.
-- 🌱 I’m currently learning Javascript Frameworks.
+- 🌱 I’m currently learning Javascript and Python.
 - 💞️ I’m looking to collaborate on new projects.
 - 📫 Contact Me aneeshussain334@gmail.com
 
